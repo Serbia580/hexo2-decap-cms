@@ -28,10 +28,6 @@
     "hexo-renderer-markdown-it":"7.1.0",
     "hexo-renderer-stylus": "3.0.0",
     "hexo-server": "3.0.0"
-    "simple-oauth2": "~5.0.0"
-  },
-  "devDependencies": {
-    "@types/node": "^18.14.0",
-    "@types/simple-oauth2": "^5.0.2"
+    "simple-oauth2": "^4.2.0"
   }
 }
