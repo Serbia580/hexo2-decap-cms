@@ -3,7 +3,6 @@ backend:
   repo: Serbia580/hexo2-decap-cms # Path to your Github/Gitlab repository
   branch: main # Branch to update
   base_url: https://hexo2-decap-cms.vercel.app
-local_backend: true
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
